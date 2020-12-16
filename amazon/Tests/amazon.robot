@@ -16,7 +16,6 @@ Primer script en el robot
     [Documentation]    Amazon test
     [Tags]    Current
 
-
     Given amazon.Web.Gui.Buscar el producto
     And amazon.Web.Gui.Seleccionar producto de los resultados de busqueda
     And amazon.Web.Gui.Agregar producto al carrito de compras

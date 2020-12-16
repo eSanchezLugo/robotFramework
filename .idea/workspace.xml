@@ -19,7 +19,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdcab461-271f-485a-a20a-11221fdaa8c5" name="Default Changelist" comment="" />
+    <list default="true" id="cdcab461-271f-485a-a20a-11221fdaa8c5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon/Resources/common.robot" beforeDir="false" afterPath="$PROJECT_DIR$/amazon/Resources/common.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon/Tests/amazon.robot" beforeDir="false" afterPath="$PROJECT_DIR$/amazon/Tests/amazon.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-Office/Tests/Front_Office.robot" beforeDir="false" afterPath="$PROJECT_DIR$/front-Office/Tests/Front_Office.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/log.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/output.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/report.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

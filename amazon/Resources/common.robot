@@ -5,7 +5,6 @@ Library  SeleniumLibrary
 
 *** Keywords ***
 Comenzar prueba web
-
     Open Browser  about:blank  ${BROWSER}
     Maximize Browser Window
 
