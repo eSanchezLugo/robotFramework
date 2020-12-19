@@ -46,9 +46,11 @@ OGIN_PASSWORD:"tu contraseña" -i current amazon\Tests\amazon.robot
 
 ## 🛠️ Construido con :
 
-* PyCharm : Ambiente de desarrollo.
-* RobotFramework : El framework en el que se desarrolla la automatización web.
-* Cucumber : Herramienta de colaboración, basado en tres roles: negocio, desarrollo y testing.
+   |    Herraientas                                     | Descripción                                                                       |
+   |----------------------------------------------------|-----------------------------------------------------------------------------------|
+   | PyCharm                                            | Ambiente de desarrollo                                                            |
+   | RobotFramework                                     | Nos ayuda a realizar los test automatizados de una forma sencilla                 |
+   | Cucumber                                           |Herramienta de colaboración, basado en tres roles: negocio, desarrollo y testing.  |
 
 
 ## 📜 Licencia :
